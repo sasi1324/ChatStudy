@@ -1,6 +1,4 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-## Register Number: 212221040135
-## Name: Ragupathi P
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
